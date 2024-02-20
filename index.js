@@ -1,7 +1,6 @@
-function sayHi(){
-    console.log(name);
-    console.log(age);
-    var name="israr";
-    let age=22
-}
-sayHi()
+//concatination of two srtings //
+
+let str1="Md Israr";
+let str2="Ahemed";
+let result = str1.concat(" ",str2);
+console.log(result)

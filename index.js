@@ -61,7 +61,18 @@
 // let str = "my name is Md israr ahmed";
 // let store = str.split(" ");
 // console.log(store)
-
+//<---------------------------------------------------------------------------------------->
+// Replace method ye kisi bhi string ko change karne ka kam karta hai  
+// let str = "Israr";
+// let replace = str.replace("Israr","Sumaiya")
+// console.log(replace) //output will be Sumaiya not israr
+//<------------------------------------------------------------------------------------------>
+//Trim method generally humara kisi bhi strings ke age piche se unwanted 
+//white space ko remove karta hai  ye inbetween string ke bich ke white space ko remove nahi karta;
+// let str="           Javascript is scripting language           ";
+// let trim = str.trim();
+// console.log(trim)
+//<==----------------------------------------------------------------------------------------->
 
 
 

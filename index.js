@@ -44,6 +44,25 @@
 // let lower= str.toLowerCase();
 // console.log(lower)
 //<------------------------------------------------------------------------------------->
-//
+//Split method ye kisi bhi string ke words ko split
+// kar deta hai or humko ek array return karta hai ;
+// let str ="India";
+// let split=str.split("")
+// console.log(split)----------output will [ 'I', 'n', 'd', 'i', 'a' ];
+// split method words ko bhi split karta hai jaise hellow world;
+// let  str= "helloWorld";
+// let result= str.split("")
+// console.log(result)
+//  split ke parameter me agar inverted 
+// comma ke bich me koi space nahi denge to to wo pure string ko 
+// breake kar  array ke index numver ke sath return karega or agar
+// inverted comma ke bich me koi space denge to pure string ke words ko inverted
+// comma me bind kar dega for Example
+// let str = "my name is Md israr ahmed";
+// let store = str.split(" ");
+// console.log(store)
+
+
+
 
 
